@@ -1,0 +1,66 @@
+﻿source,target,value
+military,lost / stolen device or media,183604432
+military,inside job,260000
+military,accidentally published,50000
+military,hacked,1098792
+web,inside job,92000000
+web,accidentally published,1396000000
+web,poor security,975476000
+web,hacked,5754653547
+academic,lost / stolen device or media,4372000
+academic,accidentally published,43000
+academic,poor security,146000
+academic,hacked,1118000
+app,poor security,585540000
+app,hacked,224400000
+energy,hacked,110000
+energy,inside job,12900000
+transport,poor security,52000
+transport,hacked,1130000
+transport,accidentally published,2394000
+telecoms,lost / stolen device or media,17113000
+telecoms,accidentally published,170000
+telecoms,inside job,2000000
+telecoms,hacked,63114000
+tech,poor security,50000
+tech,lost / stolen device or media,200000
+tech,accidentally published,12367232
+tech,hacked,91198000
+retail,lost / stolen device or media,897000
+retail,inside job,8637405
+retail,accidentally published,2000000
+retail,poor security,38300000
+retail,hacked,281444025
+media,hacked,11270000
+media,poor security,2200000
+legal,hacked,11500000
+healthcare,accidentally published,550000
+healthcare,inside job,6512000
+healthcare,lost / stolen device or media,28332270
+healthcare,hacked,115324459
+government,accidentally published,1021240396
+government,inside job,3932000
+government,poor security,1103000000
+government,hacked,152197025
+government,lost / stolen device or media,50294500
+gaming,hacked,117330755
+financial,poor security,125000
+financial,accidentally published,150000
+financial,inside job,34600000
+financial,lost / stolen device or media,22534000
+financial,hacked,786670083
+data,academic,5679000
+data,app,809940000
+data,energy,13010000
+data,financial,844079083
+data,gaming,117330755
+data,government,2357163921
+data,healthcare,150718729
+data,legal,11500000
+data,media,13470000
+data,military,82349432
+data,retail,331278430
+data,tech,103815232
+data,telecoms,82397000
+data,transport,3576000
+data,web,8218293339
